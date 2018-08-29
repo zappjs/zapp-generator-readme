@@ -1,0 +1,8 @@
+filename: README.md
+engine: handlebars
+template: readme
+mapping:
+  title: /app/title
+  name: /app/name
+  description: /app/description
+  version: /app/version

@@ -1,0 +1,14 @@
+type: object
+properties:
+  title:
+    type: string
+    description: The title of your application
+  name:
+    type: string
+    description: The application name
+  version:
+    type: string
+    description: The current version of your application
+  description:
+    type: string
+    description: A description of your application
